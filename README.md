@@ -12,6 +12,7 @@ clone 丸ごとcopy
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,apple,azure,blender,figma,python,cs,discord,dotnet,eclipse,github,git,instagram,unity,visualstudio,vscode,gcp" />
 <br>
+
 <a href="https://www.jec.ac.jp/">日電好き</a>
 <img src="https://www.jec.ac.jp/wp-content/themes/jec/assets/img/course/it/jy/img004.jpg">
 
