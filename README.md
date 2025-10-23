@@ -1,4 +1,5 @@
 # <a href="https://www.youtube.com/watch?v=Rxagj5bLpG0">歴史的ファインプレー</a>
+# <a href="https://baseball.omyutech.com/playerTop.action?playerId=2482272">個人成績</a>
 # my_new_repos
 bubukaa　食う
 編集( ´∀｀ )
