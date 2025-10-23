@@ -1,5 +1,5 @@
 # <a href="https://www.youtube.com/watch?v=Rxagj5bLpG0">歴史的ファインプレー</a>
-[!['歴史的ファインプレー']('https://github.com/user-attachments/assets/5b37be9d-94a7-4f22-b753-9e485ffd80e6')]('https://www.youtube.com/watch?v=Rxagj5bLpG0')
+[!['歴史的ファインプレー']('https://github.com/user-attachments/assets/05830991-6846-44a6-b500-620be72e1e61')]('https://www.youtube.com/watch?v=Rxagj5bLpG0')
 
 # <a href="https://baseball.omyutech.com/playerTop.action?playerId=2482272">個人成績</a>
 # my_new_repos
@@ -17,3 +17,4 @@ HalloWeen
 <br>
 <a href="https://www.jec.ac.jp/">日電好き</a>
 <img src="https://www.jec.ac.jp/wp-content/themes/jec/assets/img/course/it/jy/img004.jpg">
+<img width="1317" height="738" alt="歴史文化財画像" src="https://github.com/user-attachments/assets/05830991-6846-44a6-b500-620be72e1e61" />
