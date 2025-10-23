@@ -6,7 +6,6 @@ bubukaa　食う
 Hello World
 HalloWeen
 
-clone 丸ごとcopy
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
