@@ -1,4 +1,4 @@
 # my_new_repos
-bubukaa
+bubukaa　食う
 
 Hello World
