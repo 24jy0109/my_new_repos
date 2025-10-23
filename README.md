@@ -14,3 +14,9 @@ clone 丸ごとcopy
 <br>
 <a href="https://www.jec.ac.jp/">日電好き</a>
 <img src="https://www.jec.ac.jp/wp-content/themes/jec/assets/img/course/it/jy/img004.jpg">
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+</div>
