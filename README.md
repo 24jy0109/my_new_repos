@@ -1,5 +1,5 @@
 # <a href="https://www.youtube.com/watch?v=Rxagj5bLpG0">歴史的ファインプレー</a>
-[!['歴史的ファインプレー']('https://github.com/user-attachments/assets/05830991-6846-44a6-b500-620be72e1e61')]('https://www.youtube.com/watch?v=Rxagj5bLpG0')
+[![歴史的瞬間](https://img.youtube.com/vi/Rxagj5bLpG0/0.jpg)](https://www.youtube.com/watch?v=Rxagj5bLpG0)
 
 # <a href="https://baseball.omyutech.com/playerTop.action?playerId=2482272">個人成績</a>
 # my_new_repos
